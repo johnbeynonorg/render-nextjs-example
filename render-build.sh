@@ -1,4 +1,4 @@
 #!/bin/sh
 
-yarn
-yarn build
+pnpm i
+pnpm build
